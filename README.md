@@ -27,7 +27,7 @@ How to Run
 Clone or download this repository:
 
 Bash
-git clone [https://github.com/JosueVasque2305/Flappy-Penguin.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/JosueVasquez2305/Flappy-Penguin.git](https://github.com/JosueVasquez2305/Flappy-Penguin.git)
 Open index.html directly in your favorite web browser.
 
 Tech Stack
